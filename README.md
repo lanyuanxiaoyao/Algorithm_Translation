@@ -15,7 +15,7 @@
 - 汉化版和原版的区别仅在于修改了反编译后的strings.xml文件和一些图片,其余的均未修改,包括签名也是原版应用的,所以请大家放心使用,此外,任何不是在本页面发布却挂着我的名字的汉化版,都要**小心谨慎对待**,如果**出现了任何问题均和本人无关**,**此汉化版仅供学习使用**.
 
 ## 下载
-- 2017.3.7 [1.1.4_zh_beta1.apk](https://raw.githubusercontent.com/lanyuanxiaoyao/Algorithm_Translation/master/apk_revision/1.1.4_zh_beta1.apk)
+- 2017.3.7   [Algorithms_1.1.4_zh_beta1.apk](https://raw.githubusercontent.com/lanyuanxiaoyao/Algorithm_Translation/master/apk_revision/1.1.4_zh_beta1.apk)
 
 ## 进度
 - 2017.3.7
